@@ -141,6 +141,7 @@ ul li a {
     position: absolute;
     top: 89.5vh;
     width: 100%;
+    opacity: .9;
     border-top: .1rem solid grey;
     padding-bottom: 1rem;
 }
